@@ -1,3 +1,5 @@
+package functionalInterface;
+
 /**
  * 函数式接口的使用：一般可以作为方法的参数和返回值类型
  */

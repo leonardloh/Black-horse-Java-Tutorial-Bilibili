@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/11_Net/11_Net.iml" filepath="$PROJECT_DIR$/11_Net/11_Net.iml" />
       <module fileurl="file://$PROJECT_DIR$/12_FunctionalInterface/12_FunctionalInterface.iml" filepath="$PROJECT_DIR$/12_FunctionalInterface/12_FunctionalInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_StreamAndMethodReference/13_StreamAndMethodReference.iml" filepath="$PROJECT_DIR$/13_StreamAndMethodReference/13_StreamAndMethodReference.iml" />
       <module fileurl="file://$PROJECT_DIR$/Black horse Java Tutorial Bilibili.iml" filepath="$PROJECT_DIR$/Black horse Java Tutorial Bilibili.iml" />
       <module fileurl="file://$PROJECT_DIR$/File/File.iml" filepath="$PROJECT_DIR$/File/File.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileWriter/FileWriter.iml" filepath="$PROJECT_DIR$/FileWriter/FileWriter.iml" />

@@ -21,6 +21,6 @@ public class Stream_forEach {
 
         //优化
         stream.forEach(name-> System.out.println(name));
-        
+
     }
 }

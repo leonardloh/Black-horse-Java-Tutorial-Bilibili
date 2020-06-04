@@ -6,8 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/12_FunctionalInterface/12_FunctionalInterface.iml" filepath="$PROJECT_DIR$/12_FunctionalInterface/12_FunctionalInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/13_StreamAndMethodReference/13_StreamAndMethodReference.iml" filepath="$PROJECT_DIR$/13_StreamAndMethodReference/13_StreamAndMethodReference.iml" />
       <module fileurl="file://$PROJECT_DIR$/Black horse Java Tutorial Bilibili.iml" filepath="$PROJECT_DIR$/Black horse Java Tutorial Bilibili.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomLinkedList/CustomLinkedList.iml" filepath="$PROJECT_DIR$/CustomLinkedList/CustomLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/File/File.iml" filepath="$PROJECT_DIR$/File/File.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileWriter/FileWriter.iml" filepath="$PROJECT_DIR$/FileWriter/FileWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/Iterator/Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
